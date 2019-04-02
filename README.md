@@ -21,4 +21,4 @@ cd $ROOT \
 git clone https://github.com/mit-racecar/hardware.git \
 echo "You should now be able to run BLDC_Tool from the ~/bldc-tool directory" \
 echo "The VESC firmware is in ~/bldc-tool/firmwares" \
-echo "The RACECAR VESC configuration files are in ~/hardware/vesc" \
+echo "The RACECAR VESC configuration files are in ~/hardware/vesc" 
